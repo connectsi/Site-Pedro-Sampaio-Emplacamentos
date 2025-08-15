@@ -1,0 +1,27 @@
+.contato {
+    width: 100%;
+    display: flex;
+    justify-content: center;   /* Centraliza horizontalmente */
+    align-items: center;       /* Centraliza verticalmente */
+    background-color: #152c3c;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 20px;
+    color: aliceblue;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.contato:hover{
+    color: #152c3c;
+    background: #45daff;
+}
+
+.contato i{
+    padding: 10px;
+    font-size: 25px;
+}
+
+.contato i{
+    margin-right: 10px;
+}

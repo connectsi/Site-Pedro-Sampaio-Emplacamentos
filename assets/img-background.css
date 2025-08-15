@@ -1,0 +1,64 @@
+.img-home{
+    background: linear-gradient(#152c3c, #e13d2733), url("../assets/img/backgrond_PSE.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-2via{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/2_via_de_trasferencia-bg.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-trasferencia{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/trasferencia-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-impressao-atpv{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/ATPV_BG.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-1-emplacamento{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/1_emplacamento_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-sol-empla{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/soli_emplacao_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-boleto-ipva{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/boleto_ipva_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.img-impressao-crlv{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/impressao_crlv_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-quem-sou{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/quem_sou_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-pagamentos{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/pagamentos_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.img-contato-bg{
+    background: linear-gradient(#152c3c, #e13d2733), url("img/contato-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
